@@ -1,0 +1,17 @@
+c:\users\ckmzb\documents\visual studio 2015\Projects\CodeFirst2\CodeFirst2\bin\Debug\CodeFirst2.exe.config
+c:\users\ckmzb\documents\visual studio 2015\Projects\CodeFirst2\CodeFirst2\bin\Debug\CodeFirst2.exe
+c:\users\ckmzb\documents\visual studio 2015\Projects\CodeFirst2\CodeFirst2\bin\Debug\CodeFirst2.pdb
+c:\users\ckmzb\documents\visual studio 2015\Projects\CodeFirst2\CodeFirst2\bin\Debug\EntityFramework.dll
+c:\users\ckmzb\documents\visual studio 2015\Projects\CodeFirst2\CodeFirst2\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ckmzb\documents\visual studio 2015\Projects\CodeFirst2\CodeFirst2\bin\Debug\EntityFramework.xml
+c:\users\ckmzb\documents\visual studio 2015\Projects\CodeFirst2\CodeFirst2\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ckmzb\documents\visual studio 2015\Projects\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.csprojResolveAssemblyReference.cache
+c:\users\ckmzb\documents\visual studio 2015\Projects\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.Form1.resources
+c:\users\ckmzb\documents\visual studio 2015\Projects\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.Properties.Resources.resources
+c:\users\ckmzb\documents\visual studio 2015\Projects\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.csproj.GenerateResource.Cache
+c:\users\ckmzb\documents\visual studio 2015\Projects\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.exe
+c:\users\ckmzb\documents\visual studio 2015\Projects\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.pdb
+c:\users\ckmzb\documents\visual studio 2015\Projects\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.Migrations.InitialCreate.resources
+C:\bahrİ\3.sınıf\Projects\CodeFirst2\CodeFirst2\bin\Debug\CodeFirst2.exe.config
+C:\bahrİ\3.sınıf\Projects\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.exe
+C:\bahrİ\3.sınıf\Projects\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.pdb
